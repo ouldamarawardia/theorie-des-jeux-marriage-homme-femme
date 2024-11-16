@@ -1,0 +1,15 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Le Problème du Mariage Homme/Femme}{2}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Théorie de jeux}{4}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Le problème des mariages stables}{4}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}définition}{4}{subsection.1.3.1}% 
+\contentsline {section}{\numberline {1.4}Algorithme de Gale-Shapley }{4}{section.1.4}% 
+\contentsline {subsection}{\numberline {1.4.1}Qui sont Gale and Shapley?}{4}{subsection.1.4.1}% 
+\contentsline {subsubsection}{Lloyd Shapley}{4}{section*.5}% 
+\contentsline {subsubsection}{David Gale}{5}{section*.6}% 
+\contentsline {subsection}{\numberline {1.4.2}L'algorithme}{5}{subsection.1.4.2}% 
+\contentsline {subsubsection}{Stabilité}{6}{section*.8}% 
+\contentsline {subsubsection}{Structure des appariements stables et optimalité}{6}{section*.9}% 
+\contentsline {section}{\numberline {1.5}Implémentation}{7}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}conclusion}{8}{section.1.6}% 

@@ -1,0 +1,49 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+\usepackage{graphicx}  %image hda text
+\usepackage{wrapfig} %pour les image
+\usepackage{subcaption} %pour groupe images
+\usepackage[final]{pdfpages}  %include pdf
+\usepackage{textcomp} 
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[
+  top=1in,
+  bottom=1in,
+  left=1in,
+  right=1in,
+  footskip=0.5in,
+  headheight=16pt
+  ]{geometry}
+ \DeclareUnicodeCharacter{202F}{\,} 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[RE,LO]{\rightmark} % section title in header 
+\fancyfoot[CE,CO]{\thepage}	 % page number
+
+
+\usepackage{color} 
+
+\usepackage{hyperref} 
+\hypersetup{
+    colorlinks=true,
+    linktoc=all,
+    linkcolor=black,
+    urlcolor=blue
+}
+
+
+\begin{document}
+
+\input{Complement/page de garde.tex}
+\input{Chapter/mariage_problem.tex}
+
+
+
+
+\end{document}
